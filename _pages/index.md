@@ -22,12 +22,12 @@ Creierul uman este capabil să învețe, să se adapteze și să evolueze pe tot
 
 ## Categorii
 
-- [[Psihiatrie]]
+[[Psihiatrie]]
 
-Sub categoria Psihiatrie găsiți articole despre importanța, evoluția și ultimele descoperiri din domeniul științelor mintale. Ne concentrăm pe modul în care psihiatria ne ajută să înțelegem și să tratăm tulburările mintale și de comportament, precum și rolul ei în menținerea sănătății noastre psihice.
+- Sub categoria Psihiatrie găsiți articole despre importanța, evoluția și ultimele descoperiri din domeniul științelor mintale. Ne concentrăm pe modul în care psihiatria ne ajută să înțelegem și să tratăm tulburările mintale și de comportament, precum și rolul ei în menținerea sănătății noastre psihice.
 
-- [[Boli]]
-Sub categoria Boli psihiatrice abordăm aspecte ale tulburărilor mintale și de comportament prin lentila actuală a medicinii și științelor psihologice. Articolele noastre acoperă informații de bază despre diverse tulburări și boli mintale, incluzând simptome, cauze, tratament și prognoză.
+[[Boli]]
+- Sub categoria Boli psihiatrice abordăm aspecte ale tulburărilor mintale și de comportament prin lentila actuală a medicinii și științelor psihologice. Articolele noastre acoperă informații de bază despre diverse tulburări și boli mintale, incluzând simptome, cauze, tratament și prognoză.
 
 ![Dr  Marius Motoi](https://github.com/desprepsihiatrie/blog/assets/139854003/9ccbade5-fe21-44f8-bdad-89be1efc55a6)
 
