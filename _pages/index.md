@@ -16,20 +16,3 @@ Creierul uman este capabil să învețe, să se adapteze și să evolueze pe tot
 Sunt doctor Marius Motoi.
 ![Dr  Marius Motoi](https://github.com/desprepsihiatrie/blog/assets/139854003/9ccbade5-fe21-44f8-bdad-89be1efc55a6)
 
-
-<strong>Recently updated notes</strong>
-
-<ul>
-  {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
-  {% for note in recent_notes limit: 5 %}
-    <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ note.url }}">{{ note.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
