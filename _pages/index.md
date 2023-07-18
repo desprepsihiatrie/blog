@@ -21,7 +21,8 @@ Creierul uman este capabil să învețe, să se adapteze și să evolueze pe tot
 ## Categorii
 
 - [[Psihiatrie]]
-    notite generale
+
+  notite generale
 
 - [[Boli]]
 
