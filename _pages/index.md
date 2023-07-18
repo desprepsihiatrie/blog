@@ -16,7 +16,7 @@ Creierul uman este capabil să învețe, să se adapteze și să evolueze pe tot
 Sunt doctor Marius Motoi.
 
 ###Începe aici
-
+[[Importanța indispensabilă a psihiatriei]]
 [[Episodul maniacal în cadrul tulburării afective bipolare (TAB)]]
 
 ![Dr  Marius Motoi](https://github.com/desprepsihiatrie/blog/assets/139854003/9ccbade5-fe21-44f8-bdad-89be1efc55a6)
