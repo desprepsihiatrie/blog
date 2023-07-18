@@ -16,6 +16,8 @@ Creierul uman este capabil să învețe, să se adapteze și să evolueze pe tot
 
 - [[Importanța indispensabilă a psihiatriei]]
 
+- [[Mic glosar psihiatric]]
+
 - [[Episodul maniacal în cadrul tulburării afective bipolare (TAB)]]
 
 ## Categorii
