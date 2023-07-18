@@ -4,6 +4,4 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
-
-Feel free to tell the world about what you love! 😍
+Patologii, fun facts, metode de coping mai mult sau mai puțin adecvate și multe alte lucruri care mi-au captat atenția.
